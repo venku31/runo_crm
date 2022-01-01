@@ -120,7 +120,7 @@ app_license = "MIT"
 # 		"runo_crm.tasks.all"
 # 	],
 # 	"daily": [
-# 		"runo_crm.tasks.daily"
+# 		"runo_crm.lead_integration.get_lead_from_runo"
 # 	],
 # 	"hourly": [
 # 		"runo_crm.tasks.hourly"
