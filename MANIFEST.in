@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include runo_crm *.css
+recursive-include runo_crm *.csv
+recursive-include runo_crm *.html
+recursive-include runo_crm *.ico
+recursive-include runo_crm *.js
+recursive-include runo_crm *.json
+recursive-include runo_crm *.md
+recursive-include runo_crm *.png
+recursive-include runo_crm *.py
+recursive-include runo_crm *.svg
+recursive-include runo_crm *.txt
+recursive-exclude runo_crm *.pyc
